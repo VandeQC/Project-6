@@ -23,6 +23,7 @@ public class Functions {
     public void deleteCustomMeal(){
 
     }
+    
     public void changeGoal(){
 
     }

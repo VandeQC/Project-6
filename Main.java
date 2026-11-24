@@ -6,9 +6,11 @@ public class Main{
 
         System.out.println("Welcome to your Fitness Tracker!");
 
+        
+
         System.out.println(java.time.LocalTime.now().getHour());
 
-        
+
         
     }
 }
