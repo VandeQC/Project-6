@@ -53,5 +53,7 @@ public class Functions {
     public void calculateTD(){
 
     }
-    
+    public void calculateExercise(){
+
+    }
 }
