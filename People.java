@@ -1,4 +1,4 @@
-public class People {
+public abstract class People {
     protected String name;
     protected int age;
     protected char sex;
