@@ -1,4 +1,4 @@
-public class PeopleGoals extends People {
+public class UserGoals extends User{
     private String goal;
     private int caloriesEaten;
     private int proteinEaten;
