@@ -10,7 +10,6 @@ public class Main{
 
         System.out.println(java.time.LocalTime.now().getHour());
 
-
         
     }
 }
